@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951366093284",
+    "project_id": "fir-f8c69",
+    "storage_bucket": "fir-f8c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951366093284:android:f31389e082208d8ba79ff1",
+        "android_client_info": {
+          "package_name": "diego.pedroche.a09_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951366093284-c4dl0lnjla06ebv0p8safeq0t3ohb02j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkxaEWminlZTURighU9u4cAbJbsOrkF3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951366093284-c4dl0lnjla06ebv0p8safeq0t3ohb02j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
